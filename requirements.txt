@@ -1,0 +1,5 @@
+git+https://github.com/certator/pyping
+async_timeout
+aiorwlock
+libvirt-python==5.3.0
+psutil
