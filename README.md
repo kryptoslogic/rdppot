@@ -34,7 +34,7 @@ make install-full
 - Grab a Windows XP image and create a new VM called `winxp_template`
 - Setup RDP on that VM
 - Make sure it's accessible
-- Run main.py
+- Run main.py (Probably don't run this as root though, add your user to the libvirtd group & give yourself the permissions for pcaping)
 
 ## Support
 
